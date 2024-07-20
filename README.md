@@ -4,10 +4,16 @@ This an excel project requires an You were asked to assist your IT department wi
 
 You will be using some functions in excel that is 
   LEFT Function
+  
   MID Function
+  
   VLOOKUP Function
+  
   FIND Function
+  
   IF Function
+  
   IFERROR Function
+  
 
 These are the functions needed to do this project
